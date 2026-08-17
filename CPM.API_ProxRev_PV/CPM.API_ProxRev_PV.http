@@ -1,0 +1,6 @@
+@CPM.API_ProxRev_PV_HostAddress = http://localhost:5148
+
+GET {{CPM.API_ProxRev_PV_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
